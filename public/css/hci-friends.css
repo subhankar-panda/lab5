@@ -12,3 +12,9 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.friend {
+	padding-top:  20px;
+	padding-bottom: 30px;
+	max-width: 250px;
+}
